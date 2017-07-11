@@ -9,6 +9,9 @@
 
 ### Installation
 
+* Install pyrebase - the client to connect to firebase usign python
+	`pip install pyrebase`
+
 ### Usage
 * Create user: Creates a new user in firebase , uses hardcoded email and password in script for the user to create
 	`python CreateUser.py`
