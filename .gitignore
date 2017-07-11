@@ -1,4 +1,4 @@
 keys.ini
 service_account_credentials.json
 python-tester-service_account_credentials.json
-
+*.pyc
