@@ -25,7 +25,7 @@ lockfile==0.12.2
 ndg-httpsclient==0.4.0
 oauth2client==3.0.0
 ply==3.8
-protobuf==3.3.0
+protobuf==3.18.3
 pyasn1==0.1.9
 pyasn1-modules==0.0.9
 pycryptodome==3.4.3
